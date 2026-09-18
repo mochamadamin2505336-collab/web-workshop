@@ -2,7 +2,7 @@
 
 namespace App\Http\Controllers;
 
-class WorkshopController extends Controller
+class WorkshopController 
 {
     public function index()
     {
