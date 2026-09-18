@@ -8,7 +8,7 @@
 
     <title>PetalTech Workshop</title>
 
-    <link rel="stylesheet" href="{{ asset('style.css') }}">
+    <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
@@ -459,7 +459,8 @@
     </div>
 
 
-    <script src="{{ asset('app.js') }}"></script>
+
+    <script src="app.js"></script>
 
 </body>
 
